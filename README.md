@@ -1,4 +1,4 @@
-# Olá, eu sou Gedionay Filho! 👋
+# Olá, eu sou Gedionay Filho!
 
 **Estudante de Engenharia de Software | Assistente de Tecnologia | Desenvolvimento de Software e Automação**
 
@@ -6,7 +6,7 @@ Atuo com tecnologia em ambiente corporativo e estou direcionando minha carreira 
 
 Minha trajetória passou pela área de Gestão de Pessoas antes da transição para TI, em 2025. Hoje, aplico essa visão multidisciplinar em estudos, projetos de software e melhorias de processos.
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 - **Linguagens:** Python, JavaScript e TypeScript
 - **Desenvolvimento web:** React, Next.js, HTML, CSS e Tailwind CSS
@@ -15,7 +15,7 @@ Minha trajetória passou pela área de Gestão de Pessoas antes da transição p
 
 *As tecnologias acima incluem ferramentas utilizadas em projetos e outras em desenvolvimento contínuo de domínio.*
 
-## 📌 Projetos selecionados
+##  Projetos selecionados
 
 ### [RPA Books to Scrape](https://github.com/SxD-LDR/Rpa-books) · Repositório público
 Automação com **Python e Playwright** para coleta de informações de livros e integração com **Google Drive e Google Sheets**. Inclui documentação de execução, testes e tratamento de erros. O repositório registra uma execução ponta a ponta com 60 livros processados no modo OAuth.
@@ -29,7 +29,7 @@ Site institucional desenvolvido com **Next.js, React, TypeScript e Tailwind CSS*
 ### Automação de Atendimento · Em desenvolvimento
 Estudos e implementação de fluxos de integração e automação com **n8n, APIs e webhooks**, voltados a processos empresariais e atendimento.
 
-## 🎯 O que estou buscando
+##  O que estou buscando
 
 Evoluir na área de desenvolvimento de software, com interesse especial em **backend, aplicações web, integração de sistemas e automação**. Valorizo código compreensível, testes, documentação e aprendizado contínuo.
 
